@@ -1,2 +1,2 @@
 # Yoga-Supervisor
-Making a program that detects the yoga pose a user is currently doing and supervises if the poses are being done correctly.
+Making a program that supervises the Yoga asan a user is doing and checks if it is being done correctly.
