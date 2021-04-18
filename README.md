@@ -4,3 +4,8 @@ A program that supervises the Yoga asan a user is doing and checks if it is bein
 
 This project employs pose estimation and pose similarity comparison in order to detect if the asan being done in 2 given videos given asan video and a reference video) is same or not.   
 We also check the asan being done for correctness. By comparing a given video to the reference video we calculate a similarity score. A threshold can then be set and if value of similarity drops below that threshold, the user can be told that there is a problem in his movement during the asan.
+
+## Steps Involved
+1.  Extract Images
+2.  Detect Pose
+3.  Similarity comparison
